@@ -7,3 +7,6 @@ IPEII
 ---
 OPTATIVA
 PROYECTOINTEGRADO
+
+lista:
+tareas pendientes de proyecto integrado
